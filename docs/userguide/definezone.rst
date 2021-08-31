@@ -44,7 +44,7 @@ Preset
 
 Units
   * Pixels - Selecting this option will allow many of the following values to be entered (or viewed) in units of pixels.
-  * Percentage -  Selecting this option will allow may of the following values to be entered (or viewed) as a percentage.  The sense of the percentage values refers to the area of the zone and not the image as a whole. This makes trying to work out necessary sizes rather easier.
+  * Percentage -  Selecting this option will allow many of the following values to be entered (or viewed) as a percentage.  The sense of the percentage values refers to the area of the zone and not the image as a whole. This makes trying to work out necessary sizes rather easier.
 
 Region points
 
